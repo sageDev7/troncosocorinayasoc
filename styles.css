@@ -155,6 +155,11 @@ body.scrolled .burger span, .burger.open span { background: var(--white); }
 .area-card h4 { font-size: 1.15rem; margin-bottom: 8px; }
 .area-card p { color: var(--ink-soft); font-size: .92rem; line-height: 1.6; }
 .area-card h4 .art-highlight { color: var(--cobre); font-weight: 700; }
+.area-card-art { background: var(--cobre); border: 1px solid var(--cobre); }
+.area-card-art i { color: var(--white); }
+.area-card-art h4 { color: var(--white); }
+.area-card-art h4 .art-highlight { color: var(--verde-950); }
+.area-card-art p { color: rgba(255,255,255,.88); }
 
 /* ===== Cómo trabajamos ===== */
 .trabajamos { background: var(--verde-950); overflow: hidden; }
