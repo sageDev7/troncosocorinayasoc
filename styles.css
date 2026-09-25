@@ -132,6 +132,7 @@ body.scrolled .burger span, .burger.open span { background: var(--white); }
 .quienes-inner { max-width: 720px; margin: 0 auto; }
 .quienes-inner p { font-size: 1.15rem; line-height: 1.8; color: var(--ink-soft); }
 .quienes-inner strong { color: var(--verde-950); font-weight: 600; }
+.quienes-credencial { margin-top: 22px; font-size: .78rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--cobre); }
 
 /* ===== Áreas de práctica ===== */
 .areas { background: var(--verde-pale); }
